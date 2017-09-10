@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yaz0 Decoder", "ConsoleApp1\Yaz0 Decoder.csproj", "{7DEA55B8-206E-4B87-882A-915678653B43}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yaz0 Decoder", "Yaz0Decoder\Yaz0 Decoder.csproj", "{7DEA55B8-206E-4B87-882A-915678653B43}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
